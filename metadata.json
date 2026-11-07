@@ -1,0 +1,6 @@
+{
+  "name": "New Sri Laxmi Baby Photo Studio",
+  "description": "Full-service professional photography studio in Hyderabad. Traditional Telugu weddings, auspicious cradle ceremonies, baby milestones, and archival heirloom albums.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
